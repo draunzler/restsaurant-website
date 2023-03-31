@@ -296,6 +296,7 @@ section{
         display: flex;
         flex-direction: column;
         text-align: center;
+        background: #2b2640;
     }
     header .navbar.active{
         top: 70px;
