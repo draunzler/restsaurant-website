@@ -97,4 +97,14 @@ section{
     display: grid;
     grid-template-columns: repeat(2, 2fr);
     grid-gap: 1.5rem;
+    align-items: center;
+}
+.about-img img{
+    max-width: 100%;
+    width: 480px;
+    height: auto;
+}
+.about-text span{
+    color: var(--main-color);
+    font-weight: 600;
 }
